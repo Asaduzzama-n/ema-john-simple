@@ -1,0 +1,23 @@
+.review-item{
+    display: flex;
+    width: 571px;
+    /* background-color: #ededed; */
+    border: 1px solid #ededed;
+    border-radius: 5px;
+    padding: 10px;
+    margin:20px auto;
+   
+}
+.review-details-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 10px;
+    width: 100%;
+}
+.review-details{
+    line-height: 25px;
+}
+p{
+    margin: 0;
+}
